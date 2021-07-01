@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "postgres",
-    "password": "w123",
+    "password": "password",
     "database": "kantor",
     "host": "127.0.0.1",
     "dialect": "postgres"
